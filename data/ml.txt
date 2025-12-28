@@ -1,0 +1,7 @@
+Machine Learning (ML) is a subset of artificial intelligence that focuses on
+building systems that learn from data instead of being explicitly programmed.
+ML algorithms identify patterns in historical data and use those patterns
+to make predictions or decisions on new, unseen data.
+
+Common examples include spam detection, recommendation systems, and
+credit risk modeling.
