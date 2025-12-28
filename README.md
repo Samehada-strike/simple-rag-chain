@@ -10,24 +10,22 @@ from raw data ingestion to an executable LCEL-based RAG chain.
 
 ## High-Level Architecture
 Text Files
-↓
+>>
 LangChain Documents
-↓
+>>
 Text Chunking
-↓
+>>
 Embeddings (Sentence-Transformers)
-↓
+>>
 FAISS Vector Store
-↓
+>>
 Retriever
-↓
+>>
 Prompt Template
-↓
+>>
 LLM
-↓
+>>
 Answer
-
-
 ---
 
 ## Step 1: Data Ingestion
@@ -141,5 +139,6 @@ This metadata flows through the entire RAG pipeline.
 - Modern Hugging Face + LangChain integration
 
 ---
+
 
 
